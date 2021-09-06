@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\lincoln\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.CrossCutting\\obj\\",
+        "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\prpd1\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lincoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\prpd1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,16 +31,15 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\Service.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -48,7 +52,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -74,22 +77,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj": {
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\lincoln\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\obj\\",
+        "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\prpd1\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lincoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\prpd1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -100,10 +108,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -116,7 +123,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -158,22 +164,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\lincoln\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\obj\\",
+        "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\prpd1\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lincoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\prpd1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -184,7 +195,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -196,7 +206,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -218,22 +227,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\Service.csproj": {
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\lincoln\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Service\\obj\\",
+        "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\prpd1\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lincoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\prpd1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -244,13 +258,12 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Data\\Data.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj"
+              "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -263,7 +276,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -285,7 +297,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

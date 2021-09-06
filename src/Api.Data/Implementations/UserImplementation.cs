@@ -21,11 +21,10 @@ namespace Api.Data.Implementations
         public async Task<UsuarioEntity> FindByLogin(string email, string senha)
         {
             var query = "select";
-            query += " usu.nome, usu.email, banco as emp, usu.id, usu.vendedor_id ";
-            query += "   FROM usuarios usu ";
-            query += "   LEFT JOIN clientes cli ON cli.id = usu.cliente_id   ";
-            query += "    WHERE usu.email = '" + email + "' AND  ";
-            query += "        usu.senha = '" + senha + "' ";
+            query += " Usu_Nome, Usu_Login ";
+            query += "   FROM usuario usu ";            
+            query += "    WHERE Usu_Login = '" + email + "' AND  ";
+            query += "        Usu_Senha = '" + senha + "' ";
            
             using (var conexao = new MySqlConnection(StringConection.conection))
             {                

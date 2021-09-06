@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {}
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\lincoln\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\NetCor\\Vendas.Api\\src\\Api.Domain\\obj\\",
+        "projectPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\prpd1\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosFlutter\\VendasGit\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lincoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\prpd1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,7 +31,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +42,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -60,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

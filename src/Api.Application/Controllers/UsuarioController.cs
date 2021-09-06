@@ -2,6 +2,7 @@ using System;
 using System.Net;
 using System.Threading.Tasks;
 using Api.Domain.Entities;
+using Api.Domain.Dtos;
 using Api.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -58,7 +59,7 @@ namespace Api.Application.Controllers
 
         //    [Authorize("Bearer")]
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] UsuarioEntity user)
+        public async Task<ActionResult> Post([FromBody] UsuarioDto user)
         {
             if (!ModelState.IsValid)
             {
@@ -66,10 +67,10 @@ namespace Api.Application.Controllers
             }
             try
             {
-               string validacao = _service.ValidarUsuario(user);
-              /*  if (validacao != "") {
-                   return JsonResult(validacao);     
-                }  */
+                string validacao = _service.ValidarUsuario(user);
+              //  if (validacao != "") {
+              //     return JsonResult(validacao);     
+              //  }  
                 var result = await _service.Post(user);
                 if (result != null)
                 {

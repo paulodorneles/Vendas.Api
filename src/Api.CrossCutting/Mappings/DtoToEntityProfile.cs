@@ -1,4 +1,4 @@
-using Api.Domain.Dtos.User;
+using Api.Domain.Dtos;
 using Api.Domain.Entities;
 using AutoMapper;
 

@@ -1,4 +1,4 @@
-using Api.Domain.Dtos.User;
+using Api.Domain.Dtos;
 using Api.Domain.Entities;
 using AutoMapper;
 
@@ -11,10 +11,10 @@ namespace Api.CrossCutting.Mappings
             CreateMap<UsuarioDto, UsuarioEntity>()
                .ReverseMap();
 
-          /*  CreateMap<UserDtoCreateResult, UserEntity>()
+            CreateMap<UsuarioRetornoDto, UsuarioEntity>()
                .ReverseMap();
 
-            CreateMap<UserDtoUpdateResult, UserEntity>()
+         /*   CreateMap<UserDtoUpdateResult, UserEntity>()
                .ReverseMap();  */
 
             
