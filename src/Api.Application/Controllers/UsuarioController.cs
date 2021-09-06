@@ -10,10 +10,10 @@ namespace Api.Application.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : ControllerBase
+    public class UsuarioController : ControllerBase
     {
         private IUserService _service;
-        public UsersController(IUserService service)
+        public UsuarioController(IUserService service)
         {
             _service = service;
         }
@@ -73,7 +73,8 @@ namespace Api.Application.Controllers
                 var result = await _service.Post(user);
                 if (result != null)
                 {
-                    return Created(new Uri(Url.Link("GetWithId", new { id = result.id })), result);
+                    return Ok(result);
+                    //return Created(new Uri(Url.Link("GetWithId", new { id = result.id })), result);
                 }
                 else
                 {

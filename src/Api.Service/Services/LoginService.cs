@@ -99,10 +99,8 @@ namespace Api.Service.Services
                 created = createDate.ToString("yyyy-MM-dd HH:mm:ss"),
                 expiration = expirationDate.ToString("yyyy-MM-dd HH:mm:ss"),
                 acessToken = token,
-                userName = user.email,
-                name = user.nome,
-                emp = user.emp,
-                idVendedor = user.vendedor_id,
+                userName = user.Usu_Login,
+                name = user.Usu_Nome,                               
                 message = "Usuário Logado com sucesso"
             };
         }

@@ -8,7 +8,6 @@ namespace Api.Domain.Dtos
         [EmailAddress(ErrorMessage = "E-mail em formato inválido.")]
         [StringLength(100, ErrorMessage = "Email deve ter no máximo {1} caracteres.")]
         public string Email { get; set; }
-        public string Senha { get; set; }
-        public string Emp { get; set; }
+        public string Senha { get; set; }        
     }
 }

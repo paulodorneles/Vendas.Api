@@ -54,3 +54,17 @@ C:\ProjetosFlutter\VendasGit\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csp
 C:\ProjetosFlutter\VendasGit\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 C:\ProjetosFlutter\VendasGit\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\ProjetosFlutter\VendasGit\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

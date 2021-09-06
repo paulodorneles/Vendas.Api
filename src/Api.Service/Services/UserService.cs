@@ -30,8 +30,8 @@ namespace Api.Service.Services
         public async Task<UsuarioEntity> Post(UsuarioEntity user)
         {
             Utilitarios util = new Utilitarios();
-            user.senha = util.ObterHashMD5(user.senha);
-            user.id = _repository.ProximoCodigo("usuario","id");
+            user.Usu_Senha = util.ObterHashMD5(user.Usu_Senha);
+            user.Usu_Id = _repository.ProximoCodigo("usuario","id");
             return await _repository.InsertAsync(user);
         }
         public async Task<UsuarioEntity> Put(UsuarioEntity user)
@@ -41,7 +41,7 @@ namespace Api.Service.Services
 
         public string ValidarUsuario(UsuarioEntity user) {
             string retorno = "";
-            if (user.senha != user.confirmasenha) {
+            if (user.Usu_Senha != user.Usu_SenhaConfirma) {
                 retorno = "Senha e confirmação de senha não confere";
             }
             return retorno;
