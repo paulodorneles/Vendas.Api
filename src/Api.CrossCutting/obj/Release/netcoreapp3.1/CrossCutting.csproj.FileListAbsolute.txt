@@ -1,0 +1,16 @@
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\CrossCutting.deps.json
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\CrossCutting.dll
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\CrossCutting.pdb
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Data.dll
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Domain.dll
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Service.dll
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Service.pdb
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\bin\Release\netcoreapp3.1\Data.pdb
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.dll
+C:\Sistemas\NetCor\Diseg\src\Api.CrossCutting\obj\Release\netcoreapp3.1\CrossCutting.pdb

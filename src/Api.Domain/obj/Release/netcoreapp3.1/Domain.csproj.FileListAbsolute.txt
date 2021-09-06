@@ -1,0 +1,9 @@
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\Sistemas\NetCor\Diseg\src\Api.Domain\obj\Release\netcoreapp3.1\Domain.pdb
