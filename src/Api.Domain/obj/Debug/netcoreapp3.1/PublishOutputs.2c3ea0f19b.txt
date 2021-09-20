@@ -1,0 +1,7 @@
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.deps.json
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.pdb
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Logging.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Sistemas\NetCor\Vendas.Api\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\System.IdentityModel.Tokens.Jwt.dll
